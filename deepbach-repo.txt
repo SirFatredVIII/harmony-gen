@@ -1,0 +1,1 @@
+https://github.com/Ghadjeres/DeepBach/blob/master/DatasetManager/chorale_dataset.py
