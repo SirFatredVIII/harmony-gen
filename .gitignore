@@ -1,2 +1,4 @@
 .venv
 music_data
+backup
+__pycache__
